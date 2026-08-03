@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "codexgo-blue",
+  "name": "CodexGO Blue",
+  "description": "CodexGO 默认深色蓝紫主题。",
+  "accent": "#8b7cff",
+  "background": "#11121a",
+  "surface": "#1b1c28",
+  "text": "#f4f4f5",
+  "author": "CodexGO",
+  "license": "MIT"
+}
