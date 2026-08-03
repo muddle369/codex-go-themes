@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-midnight-aurora",
+  "name": "午夜极光",
+  "stylePreset": "midnight-aurora",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "深蓝夜幕里流动的极光，安静又有张力。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "DREAM SKIN ONLINE",
+  "quote": "MAKE SOMETHING WONDERFUL",
+  "colors": {
+    "background": "#0a0e1a",
+    "panel": "#111a2e",
+    "panelAlt": "#16233f",
+    "accent": "#2de1c2",
+    "accentAlt": "#5cf0d6",
+    "secondary": "#7b6cff",
+    "highlight": "#00d4a0",
+    "text": "#eaf4ff",
+    "muted": "#93a6c4",
+    "line": "rgba(45, 225, 194, .26)"
+  },
+  "codexgo_migration": {
+    "author": "gh283249008 / Codex Dream Skin Studio contributors",
+    "source_url": "https://github.com/gh283249008/Codex-Cidala-Tiger-Skin/tree/main/macos/presets/preset-midnight-aurora",
+    "license_file": "LICENSE.md",
+    "migration_note": "Migrated from the CodexPlusPlus community theme index; preserve the per-theme attribution and license."
+  }
+}
