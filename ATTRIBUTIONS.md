@@ -1,6 +1,6 @@
 # CodexGO Themes Attributions
 
-本目录的主题来自公开社区仓库。主题配置、图片和预览图的具体授权，以每个主题目录中的 `LICENSE.md`、`UPSTREAM_LICENSE` 和 `NOTICE.md` 为准。
+本目录的主题来自公开社区仓库。主题配置、图片和预览图的具体授权，以每个主题目录中的 `LICENSE.md` 和 `UPSTREAM_LICENSE` 为准。
 
 ## Included themes
 

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema_version": 1,
-  "updated_at": "2026-08-03",
+  "updated_at": "2026-08-31T13:32:41Z",
   "themes": [
     {
       "id": "codexgo-blue",
@@ -14,7 +14,7 @@
       "theme_url": "https://raw.githubusercontent.com/muddle369/codex-go-themes/main/themes/codexgo-blue/theme.json",
       "image_url": "https://raw.githubusercontent.com/muddle369/codex-go-themes/main/themes/codexgo-blue/image.png",
       "preview_url": "https://raw.githubusercontent.com/muddle369/codex-go-themes/main/themes/codexgo-blue/preview.jpg",
-      "theme_sha256": "e205f0427d04f3679fd29be4d094ad1f316f98e67dfb2d19bb036fa270083d56",
+      "theme_sha256": "6423e03677b6980c908f498cf0837474de593bb56a421a49bb73fa540630da67",
       "image_sha256": "dc96f4e78147e1853279cb609b567dcf9dbeda1448cd0cc7445163da9d13c367",
       "preview_sha256": "98778aad911226399e8a04a59e4df1740d775f0f2e88f2f90b3bb0019aba29b1"
     },
